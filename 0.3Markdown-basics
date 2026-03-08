@@ -1,1 +1,62 @@
 index.html
+## My Learning Goals
+
+### This Semester
+
+---
+
+### Exercise 2 — Text Formatting
+
+I want to become a **professional developer**, improve my *problem-solving skills*, and practice writing `console.log("Hello World")` in JavaScript.
+
+---
+
+### Exercise 3 — Links
+
+- [My GitHub Profile](https://github.com/your-username)
+- [W3Schools](https://www.w3schools.com)
+
+---
+
+### Exercise 4 — Lists
+
+Unordered list (Things I want to learn):
+
+- HTML & CSS
+- JavaScript
+- Git & GitHub
+
+Ordered list (Steps to make a commit in Git):
+
+1. Stage changes → `git add .`
+2. Write commit message → `git commit -m "Your message"`
+3. Push to GitHub → `git push origin main`
+
+---
+
+### Exercise 5 — Table
+
+| Tool        | Purpose                     | Link |
+|------------|----------------------------|------|
+| GitHub     | Store and share code        | https://github.com |
+| VS Code    | Code editor                 | https://code.visualstudio.com |
+
+---
+
+### Exercise 6 — Task List
+
+- [x] Create GitHub account
+- [x] Create first repository
+- [ ] Practice Markdown daily
+- [ ] Build my first website
+
+---
+
+### Exercise 7 — Code Block
+
+```javascript
+function greet(name) {
+  return "Hello " + name + "!";
+}
+
+console.log(greet("Sean"));
